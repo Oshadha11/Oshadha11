@@ -23,3 +23,7 @@ I like keeping things simple, useful, and easy to understand.
 - 🎮 Enjoy gaming and interactive systems
 - 📚 Always learning new technologies
 - 💡 Interested in clean code and scalable design
+
+
+<img src="https://media.giphy.com/media/wI4VfWw02vR9A0M69E/giphy.gif" alt="One Piece Gif"  width="100%"/>
+```http://googleusercontent.com/image_generation_content/246
