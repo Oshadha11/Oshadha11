@@ -25,5 +25,5 @@ I like keeping things simple, useful, and easy to understand.
 - 💡 Interested in clean code and scalable design
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZzR4aDk4Z2h4NHg4Z2h4NHg4Z2h4NHg4Z2h4NHg4Z2h4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" alt="Luffy Gear 5" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZzR4aDk4Z2h4NHg4Z2h4NHg4Z2h4NHg4Z2h4NHg4Z2h4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" width="400"/>
 </div>
