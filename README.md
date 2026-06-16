@@ -23,3 +23,5 @@ I like keeping things simple, useful, and easy to understand.
 - 🎮 Enjoy gaming and interactive systems
 - 📚 Always learning new technologies
 - 💡 Interested in clean code and scalable design
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
