@@ -1,15 +1,15 @@
-## Hey there 👋
+Hey there 👋
 
-I'm Shehan, a Software Engineering student.
+I'm Shehan Oshadha, a Software Engineering student.
+I mostly build small projects, try out new technologies, and upload things I'm working on here.
+I enjoy figuring out how things work and turning ideas into projects.
 
-I enjoy building web applications, database-driven systems, 
-and interactive projects while continuously improving my development skills.
-
+I like keeping things simple, useful, and easy to understand.
 ---
 
 ### Tools & Tech
 
-- Java, PHP, JavaScript
+- Java, PHP, JavaScript, C#, C
 - React, HTML, CSS
 - MySQL, Firebase
 - Git & GitHub
