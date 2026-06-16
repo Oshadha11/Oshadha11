@@ -24,6 +24,6 @@ I like keeping things simple, useful, and easy to understand.
 - 📚 Always learning new technologies
 - 💡 Interested in clean code and scalable design
 
-
-<img src="https://media.giphy.com/media/wI4VfWw02vR9A0M69E/giphy.gif" alt="One Piece Gif"  width="100%"/>
-```http://googleusercontent.com/image_generation_content/246
+<div align="center">
+  <img src="https://www.deviantart.com/r2ge/art/Workshop-Showcase-Monkey-D-Luffy-Gear-5-975771971" alt="One Piece Animation" width="600"/>
+</div>
