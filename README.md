@@ -5,6 +5,7 @@ I mostly build small projects, try out new technologies, and upload things I'm w
 I enjoy figuring out how things work and turning ideas into projects.
 
 I like keeping things simple, useful, and easy to understand.
+
 ---
 
 ### Tools & Tech
