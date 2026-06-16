@@ -24,4 +24,9 @@ I like keeping things simple, useful, and easy to understand.
 - 📚 Always learning new technologies
 - 💡 Interested in clean code and scalable design
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+---
+> "Keep building. Keep learning. The journey is just getting started. ⚓"
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Trying+new+things...;Building+small+projects...;Learning+every+day...;The+adventure+continues+%E2%98%A0%EF%B8%8F" />
+</p>
